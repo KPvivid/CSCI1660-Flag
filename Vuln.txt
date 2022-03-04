@@ -1,0 +1,13 @@
+1) Use burp to remove client-side character not allow. SQL Injection using <" OR 1 = 1 -- ->
+
+2) .pdf.php file upload. Possible for reverse shell. Click view to run
+
+3) Client hidden sensitive data (<select name="user_id"> in GRADES page) 
+
+4) CSRF.html, changing the describtion
+
+5) Insecure Direct Object Reference http://34.68.121.234/handins/
+
+6) Business Logic. Changable path to the image which allow PNG bomb (With other website) 
+
+7) http://34.68.121.234/edit-grade.php?handin=47
